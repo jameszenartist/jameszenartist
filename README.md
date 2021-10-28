@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jamesha58376283" target="blank"><img src="https://img.shields.io/twitter/follow/jamesha58376283?logo=twitter&style=for-the-badge" alt="jamesha58376283" /></a> </p>
 
-- 🌱 I’m currently learning **React, C/C++, Python, SQL, PHP, JQuery, Wordpress, GIMP, Mongo DB, Apache/NGINX.**
+- 🌱 I’m currently learning **React, Redux, Express, Node.js, Mongo BD, PHP, GIMP, Inkscape.**
 
 - 👨‍💻 All of my projects are available at [https://syntaxsamurai.com/](https://syntaxsamurai.com/)
 
