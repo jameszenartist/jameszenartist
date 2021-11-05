@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameszenartist&label=Profile%20views&color=0e75b6&style=flat" alt="jameszenartist" /> </p>
 
+<a href="https://app.daily.dev/thestoiccoder"><img src="https://github.com/jameszenartist/jameszenartist/blob/main/devcard.svg" width="400" alt="James Hansen's Dev Card"/></a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jameszenartist" alt="jameszenartist" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jamesha58376283" target="blank"><img src="https://img.shields.io/twitter/follow/jamesha58376283?logo=twitter&style=for-the-badge" alt="jamesha58376283" /></a> </p>
