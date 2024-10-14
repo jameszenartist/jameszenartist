@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jameszenartist" alt="jameszenartist" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jamesha58376283" target="blank"><img src="https://img.shields.io/twitter/follow/jamesha58376283?logo=twitter&style=for-the-badge" alt="jamesha58376283" /></a> </p>
+
 
 - 🌱 I’m currently learning **Linux, C++, Go, Python, Postgres, and Bash.**
 
