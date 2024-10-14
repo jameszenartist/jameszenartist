@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/jamesha58376283" target="blank"><img src="https://img.shields.io/twitter/follow/jamesha58376283?logo=twitter&style=for-the-badge" alt="jamesha58376283" /></a> </p>
 
-- 🌱 I’m currently learning **Linux, C++, CMake, Docker, Typescript, Python, Postgres, and Go.**
+- 🌱 I’m currently learning **Linux, C++, Go, Python, Postgres, and Bash.**
 
 - 👨‍💻 All of my projects are available at [**syntaxsamurai.com**](https://syntaxsamurai.com/)
 
