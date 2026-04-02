@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameszenartist&label=Profile%20views&color=0e75b6&style=flat" alt="jameszenartist" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jameszenartist" alt="jameszenartist" /></a> </p>
-
-
-
 - 🌱 I’m currently learning **Linux, C++, Go, Python, Postgres, and Bash.**
 
 - 👨‍💻 All of my projects are available at [**syntaxsamurai.com**](https://syntaxsamurai.com/)
